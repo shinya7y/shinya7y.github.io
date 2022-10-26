@@ -3,12 +3,8 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-# TODO change website name
-title: 'Sample Page'
-# TODO change baseURL
-# e.g., GitHub user site https://<username>.github.io/
-# or GitHub project site https://<username>.github.io/<repository>/
-baseURL: 'https://shinya7y.github.io/starter-hugo-academic/'
+title: 'Yosuke Shinya'
+baseURL: 'https://shinya7y.github.io/'
 
 # TODO check whether links work properly
 # If you find issues, canonifyurls may fix them
@@ -21,8 +17,8 @@ baseURL: 'https://shinya7y.github.io/starter-hugo-academic/'
 ############################
 
 defaultContentLanguage: en
-# TODO set true if your site has Chinese/Japanese/Korean language
-hasCJKLanguage: false
+# set true if your site has Chinese/Japanese/Korean language
+hasCJKLanguage: true
 defaultContentLanguageInSubdir: false
 removePathAccents: true
 

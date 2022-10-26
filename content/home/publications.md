@@ -10,8 +10,7 @@ headless: true
 weight: 50
 
 title: Recent Publications
-# TODO Google Scholar
-subtitle: '[Full list](./publication/)<br>[Google Scholar](https://scholar.google.com/citations?user=p3Jt8t4AAAAJ)'
+subtitle: '[Full list](./publication/)<br>[Google Scholar](https://scholar.google.com/citations?user=oGtEodQAAAAJ)'
 
 content:
   # Filter on criteria

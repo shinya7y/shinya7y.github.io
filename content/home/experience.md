@@ -16,36 +16,40 @@ subtitle:
 #   Refer to https://wowchemy.com/docs/customization/#date-format
 date_format: Jan 2006
 
-# TODO change experience to your experience
-
 # Experiences.
 #   Add/remove as many `experience` items below as you like.
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Research Engineer, Project Assistant Manager
+    company: DENSO
     company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    # company_logo: org-gc
+    location: Tokyo, Japan
+    date_start: '2015-12-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+        Conducting research and development on computer vision for self-driving cars and ADAS.
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+        * Object detection
+        * Efficient deep learning (model compression, transfer learning)
+        * Image generation (GANs, diffusion models)
+        * Technology trends survey
+
+  - title: Research Engineer
+    company: Mitsubishi Electric
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    # company_logo: org-x
+    location: Hyogo, Japan
+    date_start: '2014-04-01'
+    date_end: '2015-11-30'
+    description: |2-
+        Developed software for driver monitoring system.
+
+        * Driver's cognitive distraction detection using deep neural networks
+        * Occupant detection
+        * AR HUD (Augmented Reality Head-Up Display)
 
 design:
   columns: '2'
