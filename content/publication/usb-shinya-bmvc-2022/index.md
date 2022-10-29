@@ -13,6 +13,14 @@ lastmod: 2022-10-29T04:38:50Z
 featured: false
 draft: false
 
+# TODO
+# url_pdf: ''
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/2103.14027
+- name: Code
+  url: https://github.com/shinya7y/UniverseNet
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
@@ -30,6 +38,6 @@ projects: []
 publishDate: '2022-10-29T04:38:38.761521Z'
 publication_types:
 - '1'
-abstract: ''
+abstract: Benchmarks, such as COCO, play a crucial role in object detection. However, existing benchmarks are insufficient in scale variation, and their protocols are inadequate for fair comparison. In this paper, we introduce the Universal-Scale object detection Benchmark (USB). USB has variations in object scales and image domains by incorporating COCO with the recently proposed Waymo Open Dataset and Manga109-s dataset. To enable fair comparison and inclusive research, we propose training and evaluation protocols. They have multiple divisions for training epochs and evaluation image resolutions, like weight classes in sports, and compatibility across training protocols, like the backward compatibility of the Universal Serial Bus. Specifically, we request participants to report results with not only higher protocols (longer training) but also lower protocols (shorter training). Using the proposed benchmark and protocols, we conducted extensive experiments using 15 methods and found weaknesses of existing COCO-biased methods.
 publication: '*British Machine Vision Conference (BMVC)*'
 ---

@@ -17,6 +17,11 @@ lastmod: 2022-10-29T04:38:51Z
 featured: false
 draft: false
 
+url_pdf: http://www.mva-org.jp/Proceedings/2015USB/papers/05-09.pdf
+links:
+- name: IEEE
+  url: https://ieeexplore.ieee.org/document/7153134
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
@@ -34,6 +39,6 @@ projects: []
 publishDate: '2022-10-29T04:38:51.146587Z'
 publication_types:
 - '1'
-abstract: ''
+abstract: High-quality modeling method is required for the virtual reconstruction of ruins using mixed reality. Stone floor is one of the important parts of the ruins. In order to render the stone floor realistically, it requires a high-quality model produced by excavation information. For the reconstruction of the lacked part of stone floor, shape modifying method while maintaining a shape characteristic and the distribution of the original is required. In this paper, we propose a shape-forming method to reconstruct the stone floor from excavated data by using Implicit Polynomial(IP). IP which is the implicit function curved surface can perform interpolation and blending easily.
 publication: '*International Conference on Machine Vision Applications (MVA)*'
 ---
