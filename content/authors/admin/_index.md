@@ -68,9 +68,6 @@ email: ''
 highlight_name: true
 ---
 
-Under construction.
-Some contents are samples of a website template.
-
 Yosuke Shinya is a research engineer in computer vision and deep learning, especially in object detection and image generation.
 He is a project assistant manager at DENSO.
 For some projects, he writes papers and develops OSS as an independent researcher.

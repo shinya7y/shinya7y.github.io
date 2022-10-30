@@ -113,3 +113,8 @@ extensions:
 security:
   # Allow frame for embedding speaker notes in slides
   allow_frame: true
+
+# Citation style
+
+publications:
+  citation_style: mla
