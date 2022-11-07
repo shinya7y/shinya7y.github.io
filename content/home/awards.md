@@ -21,3 +21,5 @@ design:
 - The Award of the Minister of State for Science and Technology Policy
   at the 50th Japan Student Science Award
   <div class="text-muted exp-meta">Dec 2006</div>
+- Outstanding Reviewer
+  <div class="text-muted exp-meta">NeurIPS Datasets and Benchmarks Track 2022</div>
