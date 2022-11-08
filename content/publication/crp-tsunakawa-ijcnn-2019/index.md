@@ -44,4 +44,5 @@ publication_types:
 - '1'
 abstract: Object detection is a widely-used computer vision task, in which we identify a bounding box around each object in an image and classify the object into one of pre-defined classes. Single Shot MultiBox Detector (SSD) is a real-time object detector based on a single convolutional neural network. SSD is popular and known for high speed and accuracy, but its black-box nature is not ignorable when it is applied to critical systems. In this paper, we propose Contrastive Relevance Propagation (CRP), an extension of Layer-wise Relevance Propagation (LRP) tailored for SSD. CRP can consistently deal with SSD's heterogeneous output, i.e. confidences for object classes and location offsets, and create a heatmap that highlights a crucial part of the input, which is not available with a standard use of LRP. By experiments with the Pascal VOC 2012 dataset, we confirmed the quality of heatmaps created by CRP, and with such heatmaps, we conducted a simple analysis on prediction errors made by SSD.
 publication: '*International Joint Conference on Neural Networks (IJCNN)*'
+publication_info: 'Oral presentation, Acceptance rate: 36.4%'
 ---
