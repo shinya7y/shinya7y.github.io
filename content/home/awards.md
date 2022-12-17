@@ -22,4 +22,8 @@ design:
   at the 50th Japan Student Science Award
   <div class="text-muted exp-meta">Dec 2006</div>
 - Outstanding Reviewer
-  <div class="text-muted exp-meta">NeurIPS Datasets and Benchmarks Track 2022</div>
+  <div class="text-muted exp-meta">NeurIPS Datasets and Benchmarks Track 2022, BMVC 2022</div>
+<!--
+https://neurips.cc/Conferences/2022/DatasetBenchmarkProgramCommittee
+https://bmvc2022.org/people/reviewers/
+-->
