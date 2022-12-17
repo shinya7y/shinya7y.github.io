@@ -8,18 +8,19 @@ authors:
 - Yosuke Shinya
 tags: []
 categories: []
-date: '2022-11-21' # TODO
+date: '2022-11-21'
 lastmod: 2022-10-29T04:38:50Z
 featured: false
 draft: false
 
-# TODO
-# url_pdf: ''
+url_pdf: https://bmvc2022.mpi-inf.mpg.de/0261.pdf
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2103.14027
 - name: Code
   url: https://github.com/shinya7y/UniverseNet
+- name: Poster
+  url: https://bmvc2022.mpi-inf.mpg.de/0261_poster.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
