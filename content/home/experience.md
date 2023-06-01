@@ -35,6 +35,7 @@ experience:
         * Object detection
         * Efficient deep learning (model compression, transfer learning)
         * Image generation (GANs, diffusion models)
+        * 3D model generation
         * Technology trends survey
 
   - title: Research Engineer
