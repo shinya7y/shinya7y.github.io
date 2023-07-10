@@ -12,7 +12,7 @@ tags: []
 categories: []
 date: '2020-09-08'
 lastmod: 2022-10-29T04:38:50Z
-featured: false
+featured: true
 draft: false
 
 url_pdf: https://www.bmvc2020-conference.com/assets/papers/0453.pdf

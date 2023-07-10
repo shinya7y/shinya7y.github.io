@@ -12,7 +12,7 @@ tags: []
 categories: []
 date: '2019-10-28'
 lastmod: 2022-10-29T04:38:50Z
-featured: false
+featured: true
 draft: false
 
 url_pdf: https://esslab.jp/~ess/publications/ShinyaICCVW2019.pdf

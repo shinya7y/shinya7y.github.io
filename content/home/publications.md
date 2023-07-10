@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 50
 
-title: Recent Publications
+title: Publications
 subtitle: '[Full list](./publication/)<br>[Google Scholar](https://scholar.google.com/citations?user=oGtEodQAAAAJ)'
 
 content:
@@ -21,6 +21,7 @@ content:
     category: ''
     publication_type: ''
     author: ''
+    featured_only: true
     exclude_featured: false
     exclude_future: false
     exclude_past: false

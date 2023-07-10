@@ -10,7 +10,7 @@ tags: []
 categories: []
 date: '2022-11-21'
 lastmod: 2022-10-29T04:38:50Z
-featured: false
+featured: true
 draft: false
 
 url_pdf: https://bmvc2022.mpi-inf.mpg.de/0261.pdf

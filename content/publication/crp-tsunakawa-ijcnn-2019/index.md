@@ -15,7 +15,7 @@ tags: []
 categories: []
 date: '2019-07-18'
 lastmod: 2022-10-29T04:38:51Z
-featured: false
+featured: true
 draft: false
 
 url_pdf: https://www.researchgate.net/profile/Yoshitaka-Kameya/publication/332344761_Contrastive_Relevance_Propagation_for_Interpreting_Predictions_by_a_Single-Shot_Object_Detector/links/5db39aa1a6fdccc99d9d085b/Contrastive-Relevance-Propagation-for-Interpreting-Predictions-by-a-Single-Shot-Object-Detector.pdf
