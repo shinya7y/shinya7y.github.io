@@ -16,8 +16,8 @@ draft: false
 # TODO
 # url_pdf:
 links:
-# - name: arXiv
-#   url:
+- name: arXiv
+  url: https://arxiv.org/abs/2307.11748
 # - name: Slides
 #   url:
 # - name: IEEE

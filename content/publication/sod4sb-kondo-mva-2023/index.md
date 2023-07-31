@@ -38,6 +38,8 @@ draft: false
 # TODO
 # url_pdf:
 links:
+- name: arXiv
+  url: https://arxiv.org/abs/2307.09143
 - name: Project
   url: https://www.mva-org.jp/mva2023/challenge
 # - name: IEEE
@@ -62,6 +64,6 @@ projects: []
 publishDate: '2023-07-10T13:55:35.061963Z'
 publication_types:
 - '1'
-abstract: ''
+abstract: 'Small Object Detection (SOD) is an important machine vision topic because (i) a variety of real-world applications require object detection for distant objects and (ii) SOD is a challenging task due to the noisy, blurred, and less-informative image appearances of small objects. This paper proposes a new SOD dataset consisting of 39,070 images including 137,121 bird instances, which is called the Small Object Detection for Spotting Birds (SOD4SB) dataset. The detail of the challenge with the SOD4SB dataset is introduced in this paper. In total, 223 participants joined this challenge. This paper briefly introduces the award-winning methods. The dataset, the baseline code, and the website for evaluation on the public testset are publicly available.'
 publication: '*International Conference on Machine Vision and Applications (MVA)*'
 ---
