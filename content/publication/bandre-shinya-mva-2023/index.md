@@ -13,17 +13,16 @@ lastmod: 2023-07-10T22:55:35+09:00
 featured: true
 draft: false
 
-# TODO
 # url_pdf:
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2307.11748
-# - name: Slides
-#   url:
-# - name: IEEE
-#   url:
 - name: Code
   url: https://github.com/shinya7y/UniverseNet
+- name: Slides
+  url: https://github.com/shinya7y/shinya7y.github.io/releases/download/v5.7.1/bandre-shinya-mva-2023-slides.pdf
+# - name: IEEE
+#   url:
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

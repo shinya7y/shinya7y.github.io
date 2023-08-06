@@ -35,17 +35,16 @@ lastmod: 2023-07-10T22:55:35+09:00
 featured: false
 draft: false
 
-# TODO
 # url_pdf:
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2307.09143
 - name: Project
   url: https://www.mva-org.jp/mva2023/challenge
-# - name: IEEE
-#   url:
 - name: Code
   url: https://github.com/IIM-TTIJ/MVA2023SmallObjectDetection4SpottingBirds
+# - name: IEEE
+#   url:
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

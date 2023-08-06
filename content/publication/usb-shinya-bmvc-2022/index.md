@@ -19,6 +19,8 @@ links:
   url: https://arxiv.org/abs/2103.14027
 - name: Code
   url: https://github.com/shinya7y/UniverseNet
+- name: Slides
+  url: https://github.com/shinya7y/shinya7y.github.io/releases/download/v5.7.1/usb-shinya-bmvc-2022-slides.pdf
 - name: Poster
   url: https://bmvc2022.mpi-inf.mpg.de/0261_poster.pdf
 
