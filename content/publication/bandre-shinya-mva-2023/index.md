@@ -21,8 +21,8 @@ links:
   url: https://github.com/shinya7y/UniverseNet
 - name: Slides
   url: https://github.com/shinya7y/shinya7y.github.io/releases/download/v5.7.1/bandre-shinya-mva-2023-slides.pdf
-# - name: IEEE
-#   url:
+- name: IEEE
+  url: https://ieeexplore.ieee.org/document/10216132
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

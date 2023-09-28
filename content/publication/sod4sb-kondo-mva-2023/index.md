@@ -43,8 +43,8 @@ links:
   url: https://www.mva-org.jp/mva2023/challenge
 - name: Code
   url: https://github.com/IIM-TTIJ/MVA2023SmallObjectDetection4SpottingBirds
-# - name: IEEE
-#   url:
+- name: IEEE
+  url: https://ieeexplore.ieee.org/document/10215935
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
