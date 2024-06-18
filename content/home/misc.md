@@ -16,7 +16,11 @@ design:
 
 - [Deep Learning for Generic Object Detection: A Survey (IJCV 2019) 日本語訳](https://shinya7y.github.io/note/detection/ObjectDetectionSurvey_jp.pdf)
 
-<!--TODO slideshare-->
+## Survey and technical explanation
+
+- [Object detection technology map (SSII 2024)](https://confit.atlas.jp/guide/event/ssii2024/static/special_project_tech_map)
+- [SlideShare](https://www.slideshare.net/YosukeShinya/presentations)
+- [Speaker Deck](https://speakerdeck.com/shinya7y/)
 
 ## Unofficial demo
 

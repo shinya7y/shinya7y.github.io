@@ -69,8 +69,7 @@ highlight_name: true
 ---
 
 Yosuke Shinya is a research engineer in computer vision and deep learning, especially in object detection and image generation.
-He is a project assistant manager at DENSO.
-For some projects, he writes papers and develops OSS as an independent researcher.
+He is a senior researcher at SenseTime Japan.
 He has received
 the Award of the Minister of State for Science and Technology Policy (at the 50th Japan Student Science Award),
 OpenMMLab Contributor of the Year Award 2021,
@@ -80,8 +79,7 @@ Papers with Code Top Contributor Award.
 
 進矢陽介：物体検出や画像生成を中心としたコンピュータビジョンの研究開発に従事。
 2014年東京大学大学院情報理工学系研究科修士課程修了。
-三菱電機株式会社を経て、2015年に株式会社デンソーに入社。
-個人研究者としても活動し、論文執筆やOSS開発を行う。
+三菱電機株式会社、株式会社デンソーを経て、2024年に株式会社センスタイムジャパンに入社。
 主な受賞歴に、第50回日本学生科学賞 科学技術政策担当大臣賞、OpenMMLab Contributor of the Year Award 2021、Papers with Code Top Contributor Award。
 
 <!--

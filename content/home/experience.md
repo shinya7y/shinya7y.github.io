@@ -22,15 +22,25 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Senior Researcher
+    company: SenseTime Japan
+    company_url: ''
+    # company_logo: org-gc
+    location: Tokyo, Japan
+    date_start: '2024-06-01'
+    date_end: ''
+    description: |2-
+        Conducting research and development on computer vision.
+
   - title: Research Engineer, Project Assistant Manager
     company: DENSO
     company_url: ''
     # company_logo: org-gc
     location: Tokyo, Japan
     date_start: '2015-12-01'
-    date_end: ''
+    date_end: '2024-05-31'
     description: |2-
-        Conducting research and development on computer vision for self-driving cars and ADAS.
+        Conducted research and development on computer vision for self-driving cars and ADAS.
 
         * Object detection
         * Efficient deep learning (model compression, transfer learning)
