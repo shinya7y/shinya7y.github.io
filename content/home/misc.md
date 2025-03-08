@@ -12,6 +12,10 @@ design:
   columns: '2'
 ---
 
+## Book chapter
+
+- 進矢陽介. イマドキノ物体検出. コンピュータビジョン最前線 Summer 2025. 共立出版, 2025. (2025年6月刊行予定)
+
 ## Japanese translation
 
 - [Deep Learning for Generic Object Detection: A Survey (IJCV 2019) 日本語訳](https://shinya7y.github.io/note/detection/ObjectDetectionSurvey_jp.pdf)
@@ -26,6 +30,10 @@ design:
 
 - [Learning to Shadow Hand-drawn Sketches (CVPR 2020)](https://shinya7y.github.io/playground/shadesketch/)
 - [Deep Normal Estimation for Automatic Shading of Hand-Drawn Characters (ECCVW 2018) with environment mapping](https://shinya7y.github.io/playground/envmaps.html)
+
+## Academic services
+
+- Program committee and organizer of organized session (SSII 2025)
 
 ## Reviewer
 
