@@ -14,7 +14,7 @@ design:
 
 ## Book chapter
 
-- 進矢陽介. イマドキノ物体検出. コンピュータビジョン最前線 Summer 2025. 共立出版, 2025. (2025年6月刊行予定)
+- 進矢陽介. イマドキノ物体検出. コンピュータビジョン最前線 Summer 2025. 共立出版, 2025.
 
 ## Japanese translation
 
@@ -34,11 +34,7 @@ design:
 ## Academic services
 
 - Program committee and organizer of organized session (SSII 2025)
-
-## Reviewer
-
-- NeurIPS Datasets and Benchmarks Track (2022)
-- BMVC (2020, 2022)
+- Reviewer (NeurIPS Datasets and Benchmarks Track 2022, BMVC 2020, 2022)
 
 ## Membership
 
