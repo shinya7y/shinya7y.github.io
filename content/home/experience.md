@@ -23,14 +23,17 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Senior Researcher
-    company: SenseTime Japan
+    company: PinAI (formerly SenseTime Japan)
     company_url: ''
     # company_logo: org-gc
     location: Tokyo, Japan
     date_start: '2024-06-01'
     date_end: ''
     description: |2-
-        Conducting research and development on computer vision.
+        Leading and conducting research and development on computer vision.
+
+        * Object tracking for next-generation autofocus system
+        * Image editing
 
   - title: Research Engineer, Project Assistant Manager
     company: DENSO
