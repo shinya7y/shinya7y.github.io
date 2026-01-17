@@ -10,7 +10,7 @@ tags: []
 categories: []
 date: '2023-07-24'
 lastmod: 2023-07-10T22:55:35+09:00
-featured: true
+featured: false
 draft: false
 
 # url_pdf:

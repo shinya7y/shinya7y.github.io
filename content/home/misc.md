@@ -16,6 +16,10 @@ design:
 
 - 進矢陽介. イマドキノ物体検出. コンピュータビジョン最前線 Summer 2025. 共立出版, 2025.
 
+## Invited talk
+
+- [SOTA競争から人間を超える画像認識へ（GPU UNITE 2025）](https://speakerdeck.com/shinya7y/from-sota-race-to-superhuman-image-recognition)
+
 ## Japanese translation
 
 - [Deep Learning for Generic Object Detection: A Survey (IJCV 2019) 日本語訳](https://shinya7y.github.io/note/detection/ObjectDetectionSurvey_jp.pdf)
